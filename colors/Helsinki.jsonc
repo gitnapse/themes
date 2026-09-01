@@ -1,0 +1,10 @@
+{
+    // GitNapse Theme: Helsinki
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Helsinki",
+    "background": "#f8fafe",   // background color
+    "foreground": "#544d40",   // font color
+    "accent": "#1faa9e",        // primary accent (selection / focus)
+    "accent2": "#733d9a",      // secondary accent
+    "accent3": "#bd4c3d",      // tertiary accent
+}

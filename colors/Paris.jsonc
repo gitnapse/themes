@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Paris
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Paris",
+    "background": "#1a0a30",   // background color
+    "foreground": "#f7f1ff",   // font color
+    "accent": "#fc618d",        // primary accent (selection / focus)
+    "accent2": "#7bd88f",      // secondary accent
+    "accent3": "#a3f3ff",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}

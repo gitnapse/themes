@@ -1,0 +1,10 @@
+{
+    // GitNapse Theme: London
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "London",
+    "background": "#ffffff",   // background color
+    "foreground": "#333333",   // font color
+    "accent": "#333333",        // primary accent (selection / focus)
+    "accent2": "#444444",      // secondary accent
+    "accent3": "#888888",      // tertiary accent
+}

@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Madrid
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Madrid",
+    "background": "#fafafa",   // background color
+    "foreground": "#1a1a1a",   // font color
+    "accent": "#990026",        // primary accent (selection / focus)
+    "accent2": "#007a28",      // secondary accent
+    "accent3": "#007a9e",      // tertiary accent
+    "selection_fg": "#ffffff" // font on accent backgrounds
+}

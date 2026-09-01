@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Oslo
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Oslo",
+    "background": "#3f4451",   // background color
+    "foreground": "#abb2bf",   // font color
+    "accent": "#e05561",        // primary accent (selection / focus)
+    "accent2": "#8cc265",      // secondary accent
+    "accent3": "#42b3c2",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}

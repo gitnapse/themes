@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Berlin
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Berlin",
+    "background": "#000000",   // background color
+    "foreground": "#cccccc",   // font color
+    "accent": "#999999",        // primary accent (selection / focus)
+    "accent2": "#bbbbbb",      // secondary accent
+    "accent3": "#cccccc",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}

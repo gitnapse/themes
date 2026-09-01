@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "base_url": "https://raw.githubusercontent.com/gitnapse/themes/main",
+  "themes": [
+    {
+      "name": "Berlin",
+      "file": "colors/Berlin.jsonc",
+      "description": "Monochrome grayscale, high readability.",
+      "dark": true,
+      "background": "#000000",
+      "foreground": "#cccccc"
+    },
+    {
+      "name": "Bogota",
+      "file": "colors/Bogota.jsonc",
+      "description": "Warm dark with amber and cyan accents.",
+      "dark": true,
+      "background": "#200b0a",
+      "foreground": "#f7f1ff"
+    },
+    {
+      "name": "Helsinki",
+      "file": "colors/Helsinki.jsonc",
+      "description": "Light, clean palette with deep teal and purple accents.",
+      "dark": false,
+      "background": "#f8fafe",
+      "foreground": "#544d40"
+    },
+    {
+      "name": "Lahabana",
+      "file": "colors/Lahabana.jsonc",
+      "description": "Havana: near-black with neon pink/green accents.",
+      "dark": true,
+      "background": "#19191a",
+      "foreground": "#f7f1ff"
+    },
+    {
+      "name": "London",
+      "file": "colors/London.jsonc",
+      "description": "Light gray-on-white minimal palette.",
+      "dark": false,
+      "background": "#ffffff",
+      "foreground": "#333333"
+    },
+    {
+      "name": "Madrid",
+      "file": "colors/Madrid.jsonc",
+      "description": "Light, warm Madrid-inspired palette with deep accents.",
+      "dark": false,
+      "background": "#fafafa",
+      "foreground": "#1a1a1a"
+    },
+    {
+      "name": "Miami",
+      "file": "colors/Miami.jsonc",
+      "description": "Synthwave vibes: black with hot pink, aqua and cyan.",
+      "dark": true,
+      "background": "#000000",
+      "foreground": "#f7f1ff"
+    },
+    {
+      "name": "Oslo",
+      "file": "colors/Oslo.jsonc",
+      "description": "Low-contrast gray-blue, easy on the eyes.",
+      "dark": true,
+      "background": "#3f4451",
+      "foreground": "#abb2bf"
+    },
+    {
+      "name": "Paris",
+      "file": "colors/Paris.jsonc",
+      "description": "Violet night: deep purple base with pastel accents.",
+      "dark": true,
+      "background": "#1a0a30",
+      "foreground": "#f7f1ff"
+    },
+    {
+      "name": "Praha",
+      "file": "colors/Praha.jsonc",
+      "description": "Dracula-inspired dark theme with warm/cool contrast.",
+      "dark": true,
+      "background": "#1a1a1a",
+      "foreground": "#ffffff"
+    },
+    {
+      "name": "Tokio",
+      "file": "colors/Tokio.jsonc",
+      "description": "Classic neon dark palette (pink/green/cyan on charcoal).",
+      "dark": true,
+      "background": "#1c1c1d",
+      "foreground": "#f7f1ff"
+    },
+    {
+      "name": "X",
+      "file": "colors/X.jsonc",
+      "description": "Signature GitNapse dark theme (pink/green/cyan on near-black).",
+      "dark": true,
+      "background": "#050505",
+      "foreground": "#f7f1ff"
+    }
+  ]
+}

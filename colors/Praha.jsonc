@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Praha
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Praha",
+    "background": "#1a1a1a",   // background color
+    "foreground": "#ffffff",   // font color
+    "accent": "#ff5555",        // primary accent (selection / focus)
+    "accent2": "#b8e6a0",      // secondary accent
+    "accent3": "#8be9fd",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}

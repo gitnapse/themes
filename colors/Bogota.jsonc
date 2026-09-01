@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Bogota
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Bogota",
+    "background": "#200b0a",   // background color
+    "foreground": "#f7f1ff",   // font color
+    "accent": "#fc618d",        // primary accent (selection / focus)
+    "accent2": "#7bd88f",      // secondary accent
+    "accent3": "#47e6ff",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}

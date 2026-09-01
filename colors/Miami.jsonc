@@ -1,0 +1,11 @@
+{
+    // GitNapse Theme: Miami
+    // Colors accept "#RRGGBB" or [r, g, b].
+    "theme_name": "Miami",
+    "background": "#000000",   // background color
+    "foreground": "#f7f1ff",   // font color
+    "accent": "#ff4c8b",        // primary accent (selection / focus)
+    "accent2": "#7fffd4",      // secondary accent
+    "accent3": "#47cfff",      // tertiary accent
+    "selection_fg": "#000000" // font on accent backgrounds
+}
